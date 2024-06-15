@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333; /* Cor padrão para o texto */
+    padding: 20px;
+}
+
+h1 {
+    color: #ff0000; /* Vermelho para h1 */
+}
+
+h2 {
+    color: #00ff00; /* Verde para h2 */
+}
+
+p {
+    color: #0000ff; /* Azul para p */
+}
+
+#message {
+    color: #ff00ff; /* Magenta para o parágrafo com id="message" */
+}
